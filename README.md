@@ -19,7 +19,7 @@
 - [language-ext](https://github.com/louthy/language-ext)
 - [Unity auto attach component via attributes](https://github.com/Nrjwolf/unity-auto-attach-component-attributes)
 
-### 素材提供
+### 素材提供（未上傳，需自行找素材替代或自行去下載）
 - 肉：[猫島羽依老師](https://twitter.com/NekosimaYui)
 - 烤肉音效：[Freesound](https://freesound.org/)
 - 背景音樂與音效：[魔王魂](https://maou.audio/)
