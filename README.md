@@ -29,6 +29,3 @@
 - [悠太翼 @YuutaTsubasa](http://yutaii.run/twitter)
 - 歡迎訂閱我的 [Youtube 頻道](http://yutaii.run/youtube)！
 - 有任何想要修改的部分歡迎發 Pull Request、發 Issue 或是私訊唷！
-
-## 貢獻者
-- [Lucas 洛可 @ycs77_lucas_v](https://twitter.com/ycs77_lucas_v)
