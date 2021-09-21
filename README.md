@@ -5,7 +5,7 @@
 一個在中秋節於[實況](http://yutaii.run/live/22)中製作出來的烤肉小遊戲。
 
 ## 遊玩方式
-進入網頁即可遊玩。
+進入[網頁](http://yuuta-tsubasa.studio/CookMeat/)即可遊玩。
 
 ## 專案說明
 
